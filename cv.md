@@ -1,6 +1,6 @@
 # Name: Николай
 # Surname: Лешков
-* contact: 
+Contact: 
 + email: leshkov@mail.ru
 + telephonenumber: +375333612386
 ## Now I am studying at the Novopolsky Agrarian and Economic College, I want to become a front-end developer
@@ -12,9 +12,9 @@
 ``else{``\
   ``return "Odd";``\
 ``}``\
-``}``\
+``}``
 ### While studying in college, i wrote a lot of different programs
-* Education:
+Education:
 + Kolosovskaya secondery school
 + Novopolsky Agrarian and Economic College, specialty: programmer
 ### English language level: B1
